@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sdnpublishing.github.io/author-paul-rich-dixon/sitemap.xml
